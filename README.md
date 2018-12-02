@@ -7,4 +7,6 @@
 
 ```shell=
 $ python scatter_3d.py
-``` 
+```
+![scatter result](./result/scatter_result.png)
+ 
